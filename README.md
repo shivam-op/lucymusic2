@@ -7,7 +7,7 @@
 
 ## <b>『𝐃𝐄𝐏𝐋𝐎𝐘 𝐓𝐎 𝐇𝐄𝐑𝐎𝐊𝐔』</b>
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/rishabhanand2/LUCY_BOT) 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/rishabhanand2/lucymusic2) 
 
 
 ### 🧪 Get `SESSION_NAME` from below:
